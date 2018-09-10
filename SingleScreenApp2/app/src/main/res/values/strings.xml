@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Single Screen App</string>
+    <string name="todo">TODO</string>
+    <string name="name">Cofee Pro</string>
+    <string name="phone">2222-2222</string>
+    <string name="mail">cofeepro@gmail.com</string>
+    <string name="hours">7:00 am - 10:00 pm</string>
+</resources>

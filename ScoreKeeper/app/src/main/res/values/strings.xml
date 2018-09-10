@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="reset">RESET</string>
+    <string name="equipo_1">Equipo 1</string>
+    <string name="equipo_2">Equipo 2</string>
+    <string name="falta">FALTA</string>
+    <string name="jugador_n">Jugador N°</string>
+    <string name="penal">Penal</string>
+    <string name="plus">+</string>
+    <string name="min">min</string>
+    <string name="score">SCORE</string>
+    <string name="cero">0</string>
+    <string name="team1">TEAM 1</string>
+    <string name="team2">TEAM 2</string>
+    <string name="penalty">Penalty</string>
+    <string name="player">Player N°</string>
+    <string name="foul">FOUL</string>
+    <string name="resetear">NUEVO</string>
+    <string name="marcador">MARCADOR</string>
+</resources>
